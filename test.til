@@ -1,0 +1,14 @@
+int main(){
+    print("hello world");
+    return 1;
+}
+
+int test;
+
+int truc(bool chose){
+    
+}
+
+void some(){
+
+}

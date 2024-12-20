@@ -1,0 +1,11 @@
+#gitignore for til
+#build
+*.so
+til
+
+#cmake cache
+Makefile
+CMakeCache.txt
+build
+*.cmake
+CMakeFiles
